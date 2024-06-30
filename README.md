@@ -29,9 +29,9 @@ Bunco now features high contrast card resprites by [LunaAstraCassiopeia](https:/
 ## "Exotic Suit system"?
 
 We added two new suits in a vanillish way - instead of acquiring them right at the beginning, you actually need to get them in the run.\
-To make them appear in your run, you must play hand consisting of five different suits, you can do that using Wild Card enhancement.
+To make them appear in your run, you must play a hand consisting of five different suits, you can do that using the Wild Card enhancement.
 
-We developed a lot of special Jokers just for Exotic Suit System! You can check out Wiki if you really want to spoil yourself.
+We developed a lot of special Jokers just for the Exotic Suit System! You can check out the Wiki if you really want to spoil yourself.
 
 This system was inspired by SixSuits mod and is intended to replace other suit mods.
 
