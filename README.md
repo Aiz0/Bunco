@@ -36,8 +36,9 @@ We developed a lot of special Jokers just for the Exotic Suit System! You can ch
 This system was inspired by SixSuits mod and is intended to replace other suit mods.
 
 ## FAQ:
-**Q:** Where to download?\
-**A:** There's should be "releases" thingy on the right. Click on the version it suggests there.
+**Q:** Where do I download?\
+**A:** There should be a "releases" thingy on the right.\
+Alternatively the latest release can be found [here](https://github.com/Firch/Bunco/releases/latest)
 
 **Q:** How to install?\
 **A:** You need Steamodded to play with this mod. [Download here](https://github.com/Steamopollys/Steamodded/releases).\
