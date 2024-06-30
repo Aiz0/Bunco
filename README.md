@@ -43,14 +43,14 @@ This system was inspired by SixSuits mod and is intended to replace other suit m
 **A:** You need Steamodded to play with this mod. [Download here](https://github.com/Steamopollys/Steamodded/releases).\
 Then you simply drop the Bunco folder into your mods folder.
 
-**Q:** My game runs in 0.001 fps now, what to do?\
-**A:** There's config file, you can disable high quality background in it. 
+**Q:** My game runs at 0.001 fps now, what do I do?\
+**A:** There's a config file, you can disable the high quality background in it. 
 
 **Q:** I got crash/something is weird! What do I do?\
 **A:** Write details about your issue in Balatro's Discord: [link to the thread](https://discord.com/channels/1116389027176787968/1220084296346501201/1220084296346501201).
 
 **Q:** I can't see any cards in my collection!\
-**A:** That's not a question. But I'll answer anyways, the Jokers are needed to be discovered first, just like in the base game.
+**A:** That's not a question. But I'll answer anyways, the Jokers need to be discovered first, just like in the base game.
 
 ## Known bugs/weird things:
 - The preview for new Poker Hands is a bit broken visually in the handlist
