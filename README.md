@@ -47,7 +47,7 @@ Then you simply drop the Bunco folder into your mods folder.
 **Q:** My game runs at 0.001 fps now, what do I do?\
 **A:** There's a config file, you can disable the high quality background in it. 
 
-**Q:** I got crash/something is weird! What do I do?\
+**Q:** The game crashed/something is weird! What do I do?\
 **A:** Write details about your issue in Balatro's Discord: [link to the thread](https://discord.com/channels/1116389027176787968/1220084296346501201/1220084296346501201).
 
 **Q:** I can't see any cards in my collection!\
